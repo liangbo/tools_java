@@ -3,6 +3,8 @@ package net.liangbo.java.tools.util;
 
 /**
  * 提供十进制数字转换64进制，以达到压缩字符串长度的目的
+ *
+ * 
  */
 public class Num64RadixUtil {
 
